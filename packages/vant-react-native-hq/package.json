@@ -19,6 +19,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@vant-react-native-hq/icons-hq": "^0.0.6"
+    "@vant-react-native-hq/icons-hq": "../icons-hq"
   }
 }
