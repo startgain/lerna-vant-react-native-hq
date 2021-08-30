@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.7](https://github.com/startgain/lerna-vant-react-native-hq/compare/@vant-react-native-hq/icons-hq@0.0.6...@vant-react-native-hq/icons-hq@0.0.7) (2021-08-30)
+
+
+### Bug Fixes
+
+* 测试 ([e4ae568](https://github.com/startgain/lerna-vant-react-native-hq/commit/e4ae5683efafa9425a0f3944684cb8aa03917e26))
+
+
+
+
+
 ## [0.0.6](https://github.com/startgain/lerna-vant-react-native-hq/compare/@vant-react-native-hq/icons-hq@0.0.5...@vant-react-native-hq/icons-hq@0.0.6) (2021-08-30)
 
 
