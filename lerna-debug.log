@@ -1,0 +1,4 @@
+52 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+52 error fatal: unable to access 'https://github.com/startgain/lerna-vant-react-native-hq.git/': Failed to connect to github.com port 443: Timed out
+52 error     at makeError (C:\Users\xihong\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\lib\error.js:60:11)
+52 error     at handlePromise (C:\Users\xihong\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:118:26)
