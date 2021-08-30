@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.10](https://github.com/startgain/lerna-vant-react-native-hq/compare/vant-react-native-hq@0.0.9...vant-react-native-hq@0.0.10) (2021-08-30)
+
+
+### Bug Fixes
+
+* 9 ([6eba6a0](https://github.com/startgain/lerna-vant-react-native-hq/commit/6eba6a01177d3f1912558f8eaa0d0699c02db778))
+
+
+
+
+
 ## [0.0.9](https://github.com/startgain/lerna-vant-react-native-hq/compare/vant-react-native-hq@0.0.7...vant-react-native-hq@0.0.9) (2021-08-30)
 
 
